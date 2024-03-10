@@ -1,0 +1,7 @@
+- **Cost effective**: You ==**pay for what you consume**==, no up-front cost. Pay as you go. There are thousands of customers sharing the same resources;
+- **Global**: Launch workloads anywhere in the world, just by choosing a region;
+- **Secure**: Cloud provider takes care of physical security. ==Cloud services can be secure by default== or you have the ability to configure access down to a granular level;
+- **Reliable**: data backup, disaster recovery, data replication and fault tolerance;
+- **Scalable**: Increase or decrease resources and services based on demand;
+- **Elastic**: **==Automate==** scaling during spikes and drops in demand;
+- **Current**: The underlying hardware and managed software is patched, upgraded and replaced by the cloud provider without interruption to you.

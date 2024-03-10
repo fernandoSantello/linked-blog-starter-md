@@ -1,0 +1,1 @@
+A load balancer allows you to evenly distribute traffic to multiple servers in one or more datacenters. If a datacenter or server becomes unavailable (unhealthy) the load balancer will route the traffic to only available datacenters with servers.
