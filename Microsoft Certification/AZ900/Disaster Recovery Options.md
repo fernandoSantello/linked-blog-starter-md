@@ -1,0 +1,22 @@
+- **Backup & Restore**: You backup your data and restore it to a new infrastructure;
+	- RPO/RTO - hours;
+	- Lower priority use cases;
+	- Restore data after event;
+	- Deploy resources after event;
+	- Cost \$.
+- **Pilot Light**: Data is replicated to another region with the minimal services running;
+	- RPO/RTO - 10 minutes;
+	- Less stringent RTO & RPO;
+	- Core services;
+	- Start and scale resources after event;
+	- Cost \$$.
+- **Warn Standby**: Scaled down copy of your infrastructure running ready to scale up;
+	- RPO/RTO - minutes;
+	- Business critical services;
+	- Scale resources after event;
+	- Cost \$\$$.
+- **Multi-site Active**: Scaled up copy of your infrastructure in another region.
+	- RPO/RTO - real time;
+	- Zero downtime;
+	- Mission critical services;
+	- Cost \$\$\$\$.

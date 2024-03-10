@@ -1,0 +1,1 @@
+A stateless application doesn’t save any client session (state) data on the server where the application lives. Instead, it stores all data on the back-end database or externalizes state data into the caches of clients that interact with it.

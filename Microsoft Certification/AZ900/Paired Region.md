@@ -1,0 +1,1 @@
+Each regions is paired with another region 300 miles away. Only one region is updated at a time to ensure no outages. Some Azure Services rely on paired regions for [[Disaster Recovery]].
