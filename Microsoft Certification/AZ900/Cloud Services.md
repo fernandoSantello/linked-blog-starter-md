@@ -2,6 +2,6 @@ A Cloud Provider can have hundreds of Cloud Services that are grouped various ty
 The four most common types of cloud services for Infrastructure as a Service (IaaS) would be:
 
 - [[Computing Services in Azure]];
-- Storage;
+- [[Storage Services in Azure]];
 - [[Networking Services in Azure]];
 - Databases.
